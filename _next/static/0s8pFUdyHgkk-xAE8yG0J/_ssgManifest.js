@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F","\u002Fcharacter","\u002Fparty","\u002Fprivacy","\u002Frules","\u002Fsteps2play"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
